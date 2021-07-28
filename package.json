@@ -1,0 +1,19 @@
+{
+  "name": "battliwalawebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aritracodmw3/BattliwalaWebsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aritracodmw3/BattliwalaWebsite/issues"
+  },
+  "homepage": "https://github.com/Aritracodmw3/BattliwalaWebsite#readme"
+}
